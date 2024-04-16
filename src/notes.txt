@@ -1,0 +1,11 @@
+s1: install npm i reduxjs/toolkit react-reduxjs
+s2: Create a proj app inside that create store.js
+s3: I have to configure ,so  import { configureStore } from "@reduxjs/toolkit";
+s4: Create the store along with the reducer
+s5: Once store is created import it in your main folder
+s6: create provider
+s7: create features folder there can be multiple slice for eample consider 
+blog application you'll be having postSlice and the commentSlice. 
+s8: Create a counterSlice and import crateSlice 
+s9: export all the reducers and slice
+s10:add that reducers on the store 
